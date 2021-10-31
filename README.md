@@ -48,13 +48,18 @@ Aim: Create vivid fluid lake and support loading custom image to change landscap
 
 ### Demonstration Video Link
 Milestone 1:[Youtube](https://www.youtube.com/watch?v=on543jdF1_M)
-<iframe width="896" height="504" src="https://www.youtube.com/watch?v=on543jdF1_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[![The milestone 1 of the game.](http://img.youtube.com/vi/on543jdF1_M/0.jpg)](https://www.youtube.com/watch?v=on543jdF1_M)
+
 
 
 Milestone 2:[Youtube](https://www.youtube.com/watch?v=gHd7pCU9_6I)
-<iframe width="896" height="504" src="https://www.youtube.com/watch?v=gHd7pCU9_6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![The milestone 1 of the game.](http://img.youtube.com/vi/gHd7pCU9_6I/0.jpg)](https://www.youtube.com/watch?v=gHd7pCU9_6I)
 
 
 Milestone 3:[Youtube](https://www.youtube.com/watch?v=uU9GbxQBwPU)
-<iframe width="896" height="504" src="https://www.youtube.com/watch?v=uU9GbxQBwPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![The milestone 1 of the game.](http://img.youtube.com/vi/uU9GbxQBwPU/0.jpg)](https://www.youtube.com/watch?v=uU9GbxQBwPU)
 
